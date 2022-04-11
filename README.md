@@ -4,33 +4,17 @@
 <img src="https://i.pinimg.com/originals/67/40/8a/67408ab5444616b71968475001f18e88.gif" alt="gif" width="500" height="279"/> 
 </p> 
   
-## ¡Hola! Bienvenido(a) 😸 a este repositorio ☘ me podrias apoyar con una ⭐️ ¡Gracias! 
-
-<p align="center">   
-<a href="https://github.com/GataNina-Li/GataBotV2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBotV2?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBotV2/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBotV2?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBotV2/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBotV2?label=Stars&color=yellow&style=flat-square"></a>
-</p> 
-
-###### 👇 Si tiene dudas 
-#### 💚 *CONTACTO 1* 
-[![blog](https://img.shields.io/badge/Gata_Dios-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://api.whatsapp.com/send?phone=14509544207&text=¡Hola!%20Gata%20Dios%20😸%20vengo%20de%20GitHub) 
+## ¡Hola! Bienvenido(a) 😸 a este repositorio ☘
+https://github.com/LoliBot82/LoliBot82
+ 
   
-#### 💚 *CONTACTO 2*  
-[![blog](https://img.shields.io/badge/Gata_Dios-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://api.whatsapp.com/send?phone=593968585383&text=¡Hola!%20Gata%20Dios%20😸%20vengo%20de%20GitHub) 
 
 #### 🌱 *GRUPO OFICIAL*  
-[![blog](https://img.shields.io/badge/GataBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/Eg7m7mmb85IDLnSgFooDg6) 
+https://chat.whatsapp.com/CCr3C3uwOM6A2tsZd6T6F7
 
-#### 🎥 *VÍDEO DE INSTALACIÓN*
-[![blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/85xI8WFMIUY)
---------- 
+
  
-### ✅ DEBE DE TENER A SU DISPOSICIÓN: 
+✅ DEBE DE TENER A SU DISPOSICIÓN: 
 
 *  Conexión estable de Internet
 *  Aplicación Termux (actualizada)
@@ -38,7 +22,8 @@
 --------- 
 
 ### ⚙️ AJUSTES
-- CAMBIAR NÚMERO DE LA PROPIETARIA [Aquí](https://github.com/GataNina-Li/GataBotV2/edit/master/config.js)
+- CAMBIAR NÚMERO DE PROPIETARIO AQUI [https://github.com/LoliBot82/LoliBot82/blob/main/config.js]
+
 --------- 
 
 ### 📎 COMANDOS DE INSTALACIÓN PARA TERMUX
@@ -50,8 +35,10 @@
 > apt install nodejs -y
 > apt install ffmpeg -y
 > apt install imagemagick -y
-> git clone https://github.com/GataNina-Li/GataBotV2
-> cd GataBotV2
+> https://github.com/LoliBot82/LoliBot82
+(LUEGO DESCARGAR LOS ARCHIVOS DEL BOT DEL GITHUB)
+> cd /storage
+>cd /Download/nombre De La Carpeta
 > ls
 > npm install
 > npm install -g npm@8.5.5 
@@ -59,8 +46,8 @@
 > npm start
 ```
 
-### 😸 RECOMENDACIONES:
-> #### *⚠️  De hacer una bifurcación o extracción de este respositorio, es posible que no reciba futuras actualizaciones de GataBot*
+### 🤡 RECOMENDACIONES:
+> #### *⚠️  De hacer una bifurcación o extracción de este respositorio, es posible que no reciba futuras actualizaciones de Astro Boy*
 
 ```bash
 > ❇️ Recuerde que para que su número sea Owner/Propietario(a) debe de agregar
@@ -73,7 +60,8 @@ en el archivo config.js del BOT:  #on restrict
 > ❇️ Para activar la lectura automática de mensajes escriba: #on autoread
 
 > ❇️ En caso que se cierre la sesión de Termux, escriba:
-> cd GataBot
+> cd /storage 
+<cd Download/nombre de la carpeta
 > npm start
 
 > ❇️ Si necesita obtener un nuevo Código QR, escriba en Termux:
@@ -88,9 +76,8 @@ comando para actualizar los datos: #update o #actualizar
 y el Whatsapp que este usando. Lo aconsejable es máximo 45 grupos 
 ```
 --------- 
-### 🌟 CREADORA 
- 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+### 🌟 CREADOR DEL BOT 
+MATIAS BY NUMERO DEL OWNER wa.me/+5493402520382
  
 ### 🌟 AGRADECIMIENTOS
  
